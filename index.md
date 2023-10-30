@@ -14,7 +14,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 Fraud Detection project
 
-## Header 2
+## Project 2
 
 > This is a blockquote following a header.
 >

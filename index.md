@@ -16,7 +16,7 @@ Fraud Detection project
 
 ## Project 2
 
-> This is a blockquote following a header.
+Financial Detection
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
